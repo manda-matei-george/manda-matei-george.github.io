@@ -16,4 +16,22 @@ Tipuri de link-uri in markdown
 
 #### Linkurile clasice
 
+**Variante**
 Textul linkului (www.google.com)
+
+
+
+#### Linkurile referentiale
+
+Iata un[link][link]catre site-ul Google.
+
+[link]:www.google.com
+
+
+Varianta prescurtata a linkurilor
+
+Iata un link [importat] catre site-ul Google
+
+[important]:www.google.com
+
+

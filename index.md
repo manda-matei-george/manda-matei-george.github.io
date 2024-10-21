@@ -1,3 +1,6 @@
+![Text descriptiv Imagine](https://metricop.com/cdn/shop/articles/trimble-total-station.jpg?v=1677673954)
+
+
 # Implementarea relatiilor in Markdown
 
 ## Implementarea relatiilor/legaturilor catre alte fisiere
@@ -17,7 +20,7 @@ Tipuri de link-uri in markdown
 #### Linkurile clasice
 
 **Variante**
-Textul linkului (www.google.com)
+Textul linkului (https://www.google.com/)
 
 
 
@@ -25,18 +28,16 @@ Textul linkului (www.google.com)
 
 Iata un[link][link]catre site-ul Google.
 
-[link]:www.google.com
+[link]:https://www.google.com/
 
 
 Varianta prescurtata a linkurilor
 
 Iata un link [importat] catre site-ul Google
 
-[important] :www.google.com
+[important] :https://www.google.com/
 
 
 
 #### Linkurile cate imagini
-
-![Text descriptiv Imagine](https://metricop.com/cdn/shop/articles/trimble-total-station.jpg?v=1677673954)
 

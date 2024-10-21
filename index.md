@@ -32,6 +32,11 @@ Varianta prescurtata a linkurilor
 
 Iata un link [importat] catre site-ul Google
 
-[important]:www.google.com
+[important] :www.google.com
 
+
+
+#### Linkurile cate imagini
+
+![Text descriptiv Imagine](https://metricop.com/cdn/shop/articles/trimble-total-station.jpg?v=1677673954)
 

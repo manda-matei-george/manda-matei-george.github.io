@@ -14,7 +14,7 @@ Exemplu:Aceasta este o ecuatie $a=bc$
 
 Formule 'Latex'(prin 'Mathjax')se introduc pe rand doua perechi de simboluri "$$'
 
-Exemplu:
+*Exemplu:*
 
 $$a=b^$$
 

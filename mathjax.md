@@ -39,3 +39,44 @@ Elementele din formule se grupeaza prin meta-caracterele '{' si '}'
 
 $$10^{10}$$
 
+#Literele grecesti
+
+*Exemple;*
+
+'\alpha' alpha litera mica ($\alpha$)
+'\Alpha' alpha litera mare ($\Alpha$)
+
+
+# Parantezele
+
+
+-Parantezele rotunde se scriu direct(nu au un inteles special 'Latex')
+
+-Parantezele rotunde se scriu drepte(nu au un inteles special 'Latex']
+
+-Acoladaele,deoarece ele sunt metacaractere de grupare,vor fi renderizate corect daca sunt 'escapade' de la intelesul lor special,punand in fara
+
+
+*Exemple;*
+$$a=(a+c)^(3x)-[3+6x]$$
+
+
+#Fractie
+
+'\frac(numarator){numitor}
+
+
+$$ a=/frac{(a+B)}(d-e)
+
+
+# Semnele de multiplicare si respectiv de diviziune 
+
+*Exempl:*
+
+$$ a=c + 10\times x $$
+
+$$a=c + 10\cdot x $$
+
+$$a= b\div c $$
+
+

@@ -26,10 +26,10 @@ $$
    # Scrierea sisetmelor de ecuatii
 '''LaTex
 $$
-\begin{aling}
+\begin{align}
 f(x) &= ax^2 \\
 g(x) &= ax^2 + bx + c \\
-\end{aling}
+\end{align}
   $$
    
   $$

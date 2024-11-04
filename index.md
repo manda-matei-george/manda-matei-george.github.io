@@ -4,6 +4,7 @@
 [Elemente avansate de markdown](avansate.md)
 
   [Formule cu Mathjax](mathjax.md)
+  [Matrici](mathjax2.md)
 
 ***
 

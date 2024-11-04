@@ -25,7 +25,7 @@ $$
 
    # Scrierea sisetmelor de ecuatii
 '''LaTex
-\begin{align}
+\begin{aling}
 f(x) &= ax^2 \\
 g(x) &= ax^2 + bx + c \\
 \end{aling}
@@ -35,7 +35,7 @@ g(x) &= ax^2 + bx + c \\
 \begin{align}
 f(x) &= ax^2 \\
 g(x) &= ax^2 + bx + c \\
-\end{aling}
+\end{align}
   $$
 
 

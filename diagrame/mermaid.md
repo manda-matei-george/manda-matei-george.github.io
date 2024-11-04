@@ -10,18 +10,20 @@
 
 [Homepage](index.md)
 
+[Homepage](index.md)
+
 # Diagrame de lowchart
 
-mermaid
+'''mermaid
 flowchart LR
 A[Anul I] --> B[Anul II]
 
 
-mermaid
+'''mermaid
 flowchart LR
 A(Anul I) --> B(Anul II)
 
 
-mermaid
+'''mermaid
 flowchart LR
 A[/Anul I/] --> B[\Anul II\]

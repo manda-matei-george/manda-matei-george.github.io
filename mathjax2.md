@@ -1,4 +1,18 @@
+![Text descriptiv Imagine](https://metricop.com/cdn/shop/articles/trimble-total-station.jpg?v=1677673954)
 
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-AMS_CHTML"></script>
+
+
+[Homepage](index.md)
+
+# Scrierea matricelor
+
+$$
+\Begin{pmatrix}
+a_{11} & a_{a12} & a_{13}\\
+a_{21} & a_{a22} & a_{23}\\
+\end{pmatrix}
+$$
 
 
 

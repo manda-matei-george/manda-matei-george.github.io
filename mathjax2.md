@@ -14,6 +14,30 @@ a_{21} & a_{22} & a_{23} \\
 \end{pmatrix}
 $$
 
+**Posibilitati:**
+
+- '{pmatrix}'
+- '{bmatrix}'
+- '{vmatrix}'
+-  '{Bmatrix}'
+  -' {Pmatrix}'
+  -'{Vmatrix}'
+
+   # Scrierea sisetmelor de ecuatii
+'''LaTex
+\begin{align}
+f(x) &= ax^2 \\
+g(x) &= ax^2 + bx + c \\
+\end{aling}
+  $$
+   
+  $$
+\begin{align}
+f(x) &= ax^2 \\
+g(x) &= ax^2 + bx + c \\
+\end{aling}
+  $$
+
 
 
 
